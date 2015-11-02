@@ -1,3 +1,0 @@
-<h1>Flapper News</h1>
-
-<p>My tutorial of the Flapper News with the usage of Rails and AngularJS.  This is my first application that uses AngularJS within a Rails framework.  The tutorial that I followed to accomplish this is called <a href="https://thinkster.io/angular-rails#introduction">"Angular JS Tutorial: Learn to build Modern Web Apps with Angular and Rails."</a>  If you have any pointers or information that will help me along in advancing my skills with Rails and Angular JS please feel free to shoot me a message on my <a href="www.zurihunter.com">website</a></p>
